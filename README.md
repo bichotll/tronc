@@ -1,0 +1,2 @@
+# tronc
+### a Sails application
